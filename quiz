@@ -1,0 +1,28 @@
+1.) Days the weather was cloudy in each of these 3 cities:
+
+ For New York, there is no cloudy day listed. 
+For Mumbai, there are no cloudy days listed.
+ For Paris, the cloudy days are 1/2/2017, 1/3/2017, and 1/4/2017. 
+2. The maximum windspeed in each of these 3 cities:
+
+ For New York, the maximum windspeed was 12 on 1/3/2017. 
+For Mumbai, the maximum windspeed was 15 on 1/3/2017. 
+For Paris, the maximum windspeed was 20 on 1/1/2017.
+
+Explanation:
+Approach to solving the question: through examining the weather data given.
+
+ 
+
+Detailed explanation:
+
+Cloudy Days:
+
+New York: There is no cloudy day listed for New York in the provided data. This suggests that during the specified period, there were no days characterized by overcast or cloudy weather in New York.
+Mumbai: Similar to New York, there are no cloudy days listed for Mumbai in the provided data. This indicates that during the specified period, there were no days with cloudy weather in Mumbai.
+Paris: The provided data lists the following cloudy days for Paris: 1/2/2017, 1/3/2017, and 1/4/2017. This indicates that on these dates, the weather in Paris was characterized by cloud cover, resulting in overcast conditions.
+Maximum Windspeed:
+
+New York: The maximum windspeed recorded in New York was 12 mph on 1/3/2017. This indicates that on January 3, 2017, New York experienced a peak windspeed of 12 mph, representing the highest wind velocity measured during the specified period.
+Mumbai: The maximum windspeed recorded in Mumbai was 15 mph on 1/3/2017. This suggests that on January 3, 2017, Mumbai experienced a peak windspeed of 15 mph, representing the highest wind velocity observed during the specified period.
+Paris: The maximum windspeed recorded in Paris was 20 mph on 1/1/2017. This indicates that on January 1, 2017, Paris experienced a peak windspeed of 20 mph, representing the highest wind velocity recorded during the specified period.
